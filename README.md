@@ -2,8 +2,8 @@
 It contains the code of the paper "Characterising Authors on the Extent of their Paper Acceptance: A Case Study of the Journal of High Energy Physics" published in JCDL 2020.
 
 Please cite us
-@inproceedings{10.1145/3383583.3398527,
-author = {Hazra, Rima and Aryan and Aggarwal, Hardik and Marsili, Matteo and Mukherjee, Animesh},
+@inproceedings{10.1145/3383583.3398527,\\
+author = {Hazra, Rima and Aryan and Aggarwal, Hardik and Marsili, Matteo and Mukherjee, Animesh},\\
 title = {Characterising Authors on the Extent of Their Paper Acceptance: A Case Study of the Journal of High Energy Physics},
 year = {2020},
 isbn = {9781450375856},
